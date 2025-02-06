@@ -1,4 +1,4 @@
-@ -0,0 +1,59 @@
+
 # Global Energy Transition Pathways
 
 This project explores the global transition from fossil fuels to renewable energy, aiming to identify tailored pathways for countries at various stages of energy transition. Through clustering, predictive modeling, and data analysis, we provide actionable insights into renewable adoption strategies.
